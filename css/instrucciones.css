@@ -1,0 +1,42 @@
+body,html{
+	height:200%;
+	padding:0px;
+	margin:0px
+}
+body{
+	font-size:3vw;
+	background:url(../img/fondo.jpg) no-repeat center center fixed;
+background-size: cover;
+}
+h3{
+	height: 0%;
+	width: 50%;
+	margin: 0% auto 5% auto;
+	padding: 0%;
+	text-align:center;
+	color:white;
+	font-family: Georgia, 'Times New Roman';
+	color: yellow;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+p{
+	height: 100%;
+	width: 100%;
+	margin: auto;
+	border-radius: 20%;
+	padding: 2%;
+	text-align:center;
+	font-size: 25px;
+	color:white;
+	font-family: Georgia, 'Times New Roman';
+	text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+m{
+	height: 100%;
+	width: 100%;
+	margin: auto;
+	border-radius: 20%;
+	padding: 2%;
+	font-size: 25px;
+	font-family: Georgia, 'Times New Roman';
+}

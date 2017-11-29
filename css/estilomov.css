@@ -1,0 +1,102 @@
+body,html{
+	height:200%;
+	padding:0px;
+	margin:0px;
+	background: url(../img/fondo.png) no-repeat center center fixed;
+	background-size: cover;
+}
+body{
+  	font-size:3vw;
+  	background:url(../img/fondo.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+.a,.b,.c{
+  display:inline-block;
+  width:33.33%;height:100%;
+  float:left;
+}
+.d{
+  background-color:pink;
+  height:10%;width:100%;
+  position:fixed;
+  bottom:0px;
+}
+#nave{
+	text-align:center;
+	position:fixed;
+	top:5%;
+	width:50%;
+	height:20%;
+}
+#nave img{
+height: 20%;
+display: block;
+margin: auto;
+position: absolute;
+top: 0px; left: 0px;
+width: 20%; height:20%;
+}
+#contadores {
+    display: inline-block;
+    width: 25%;
+    height: 100%;
+    position: fixed;
+    left: 0px;
+    background-image:;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    pointer-events: auto;
+}
+.controles {
+    width: auto;
+    height: auto;
+    max-width: 130px;
+    background-color: orange;
+    margin: 15px;
+    width: 100%;
+		border-radius: 12px;
+    border-style: outset;
+    border-color: orange;
+    font-size: 100%;
+    padding: 2px;
+    margin-bottom: 15px;
+}
+#cpanel{
+	margin: 0 auto;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	position: fixed;
+	height: 20%;
+
+}
+#terreno{
+  width: 50px;
+	margin: 0 auto;
+	left: 20%;
+	right: 0;
+	bottom: 0;
+	position: relative;
+	height: 20%;
+}
+#menu{
+  background-color:
+	margin: 0 auto;
+	left: 0;
+	right: 20%;
+	bottom: 0;
+	position:;
+	height: 20%;
+}
+#menu li{
+	list-style-type: none;
+	position: relative;
+  left: 160%;
+	right: 0;
+	top: 0.5em;
+	padding: 5px;
+	margin-bottom: 15px;
+	max-width: 200px;
+  max-height: 200px;
+}
