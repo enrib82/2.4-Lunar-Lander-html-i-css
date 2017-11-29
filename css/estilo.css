@@ -6,7 +6,7 @@ body,html{
 body{
 	font-size:3vw;
 	background:url(../img/fondo.jpg) no-repeat center center fixed;
-background-size: cover;
+	background-size: cover;
 }
 .a,.b,.c{
 	display:inline-block;
@@ -32,28 +32,28 @@ background-size: cover;
 	height:100%;
 }
 #contadores {
-    width: 25%;
-    height: 100%;
-    position: fixed;
-    left: 0px;
-    background-image:;
-    background-size: 100%;
-    background-repeat: no-repeat;
-    background-position: bottom left;
-    pointer-events: auto;
+    	width: 25%;
+    	height: 100%;
+    	position: fixed;
+    	left: 0px;
+    	background-image:;
+    	background-size: 100%;
+        background-repeat: no-repeat;
+        background-position: bottom left;
+    	pointer-events: auto;
 }
 .controles {
-    height: 20%;
-    max-width: 140px;
-    background-color: orange;
-    margin: 15px;
-    width: 60%;
-    border-radius: 12px;
-    border-style: outset;
-    border-color: orange;
-    font-size: 100%;
-    padding: 0px;
-    margin-bottom: 10px;
+    	height: 20%;
+    	max-width: 140px;
+    	background-color: orange;
+    	margin: 15px;
+    	width: 60%;
+    	border-radius: 12px;
+    	border-style: outset;
+    	border-color: orange;
+    	font-size: 100%;
+    	padding: 0px;
+    	margin-bottom: 10px;
 }
 #terreno{
 	margin:  auto;
