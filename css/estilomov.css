@@ -8,18 +8,18 @@ body,html{
 body{
   	font-size:3vw;
   	background:url(../img/fondo.jpg) no-repeat center center fixed;
-  background-size: cover;
+  	background-size: cover;
 }
 .a,.b,.c{
-  display:inline-block;
-  width:33.33%;height:100%;
-  float:left;
+  	display:inline-block;
+ 	width:33.33%;height:100%;
+  	float:left;
 }
 .d{
-  background-color:pink;
-  height:10%;width:100%;
-  position:fixed;
-  bottom:0px;
+  	background-color:pink;
+  	height:10%;width:100%;
+  	position:fixed;
+  	bottom:0px;
 }
 #nave{
 	text-align:center;
@@ -29,38 +29,38 @@ body{
 	height:20%;
 }
 #nave img{
-height: 20%;
-display: block;
-margin: auto;
-position: absolute;
-top: 0px; left: 0px;
-width: 20%; height:20%;
+	height: 20%;
+	display: block;
+	margin: auto;
+	position: absolute;
+	top: 0px; left: 0px;
+	width: 20%; height:20%;
 }
 #contadores {
-    display: inline-block;
-    width: 25%;
-    height: 100%;
-    position: fixed;
-    left: 0px;
-    background-image:;
-    background-size: 100%;
-    background-repeat: no-repeat;
-    background-position: bottom left;
-    pointer-events: auto;
+    	display: inline-block;
+    	width: 25%;
+    	height: 100%;
+    	position: fixed;
+    	left: 0px;
+    	background-image:;
+    	background-size: 100%;
+    	background-repeat: no-repeat;
+    	background-position: bottom left;
+    	pointer-events: auto;
 }
 .controles {
-    width: auto;
-    height: auto;
-    max-width: 130px;
-    background-color: orange;
-    margin: 15px;
-    width: 100%;
-		border-radius: 12px;
-    border-style: outset;
-    border-color: orange;
-    font-size: 100%;
-    padding: 2px;
-    margin-bottom: 15px;
+    	width: auto;
+    	height: auto;
+    	max-width: 130px;
+    	background-color: orange;
+    	margin: 15px;
+    	width: 100%;
+	border-radius: 12px;
+    	border-style: outset;
+    	border-color: orange;
+    	font-size: 100%;
+    	padding: 2px;
+    	margin-bottom: 15px;
 }
 #cpanel{
 	margin: 0 auto;
