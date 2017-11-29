@@ -43,12 +43,12 @@ background-size: cover;
     pointer-events: auto;
 }
 .controles {
-	  height: 20%;
+    height: 20%;
     max-width: 140px;
     background-color: orange;
     margin: 15px;
-    width: 20%;
-		border-radius: 12px;
+    width: 60%;
+    border-radius: 12px;
     border-style: outset;
     border-color: orange;
     font-size: 100%;
